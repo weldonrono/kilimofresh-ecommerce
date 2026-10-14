@@ -1,0 +1,6 @@
+{
+  "name": "KilimoFresh Distributed Architecture & M-Pesa Engine",
+  "description": "Interactive technical case study and simulation engine for KilimoFresh's distributed e-commerce architecture, featuring Redis SETNX webhook idempotency, PostgreSQL row-level locking, and BullMQ worker queues for Safaricom Daraja integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
