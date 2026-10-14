@@ -10,7 +10,7 @@ export const INITIAL_PRODUCTS: ProductItem[] = [
     priceKES: 450,
     stock: 5,
     initialStock: 5,
-    image: '/src/assets/images/kilimofresh_hass_avocados_1791967925276.jpg',
+    image: '/images/kilimofresh_hass_avocados_1791967925276.jpg',
     harvestTime: 'Picked today 05:30 AM EAT'
   },
   {
@@ -22,7 +22,7 @@ export const INITIAL_PRODUCTS: ProductItem[] = [
     priceKES: 620,
     stock: 8,
     initialStock: 8,
-    image: '/src/assets/images/kilimofresh_strawberries_1791967925103.jpg',
+    image: '/images/kilimofresh_strawberries_1791967925103.jpg',
     harvestTime: 'Picked today 06:15 AM EAT'
   },
   {
@@ -34,7 +34,7 @@ export const INITIAL_PRODUCTS: ProductItem[] = [
     priceKES: 1250,
     stock: 12,
     initialStock: 12,
-    image: '/src/assets/images/kilimofresh_hero_produce_1791967923472.jpg',
+    image: '/images/kilimofresh_hero_produce_1791967923472.jpg',
     harvestTime: 'Packed today 05:00 AM EAT'
   }
 ];
